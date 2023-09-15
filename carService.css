@@ -1,0 +1,26 @@
+body {
+    background-image: url("gtaBg.png");
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+    align-items: end;
+}
+h1 {
+    font-size: 5rem;
+    text-shadow: 3px 0 #debc7c;
+}
+.toto {
+    background-image: url("toto.png");
+}
+.buboy {
+    background-image: url("buboy.png");
+}
+button {
+    background-size: cover;
+    background-color: transparent;
+    border-radius: 25px;
+    color: transparent;
+    width: 500px;
+    height: 500px;
+    margin: 15px;
+}
